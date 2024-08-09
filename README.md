@@ -3,8 +3,6 @@
 ## Description
 
 **IUAT-X** is a Chrome extension designed to help [Integral University](iul.ac.in) students monitor their attendance. It processes attendance data from the specified URL and highlights rows with low attendance. Additionally, it provides actionable insights to improve or maintain attendance rates.
-![{EBB54841-EE2A-42BC-897C-E1578A1C1965}](https://github.com/user-attachments/assets/1b4365ce-abb6-4426-a342-6131c5e59bba)
-
 
 ## Features
 

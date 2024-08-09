@@ -51,5 +51,5 @@ For any questions or support, please open an issue on the [GitHub repository](ht
 
 ---
 
-# This is a product of Specteria
+`This is a product of Specteria.`
 

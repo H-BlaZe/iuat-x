@@ -51,5 +51,5 @@ For any questions or support, please open an issue on the [GitHub repository](ht
 
 ---
 
-Happy attending!
+# This is a product of Specteria
 

@@ -18,13 +18,13 @@ Follow these steps to install the IUAT-X Chrome extension on your desktop browse
 
 1. **Download the Extension**
 
-   Download the `.crx` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub..
+   Download the `iuatx-<version>.zip` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub..
 
 2. **Install the Extension in Chrome**
 
    - Open Chrome and go to `chrome://extensions/`.
    - Enable **Developer mode** by toggling the switch in the top right corner.
-   - Drag and drop the `.crx` file into the Chrome Extensions page.
+   - Drag and drop the `.zip` file into the Chrome Extensions page.
    - Confirm the installation by clicking **Add Extension** when prompted.
 
 3. **Accessing the Extension**
@@ -43,13 +43,13 @@ Follow these steps to install the IUAT-X Chrome extension on your mobile browser
 
 2. **Download the Extension**
 
-   Download the `.crx` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub.
+   Download the `iuatx-<version>.zip` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub.
 
 3. **Install the Extension in Chrome**
 
    - Open the browser and navigate to the extensions menu.
    - Enable **Developer mode** by toggling the switch in the top right corner.
-   - Choose +(from .zip/.crx) and choose the iuat-x(<version>).crx file you downloaded.
+   - Choose **+(from .zip/.crx)** and choose the `iuatx-<version>.zip` file you downloaded.
    - Confirm the installation by clicking **Add Extension** when prompted.
 
 4. **Accessing the Extension**

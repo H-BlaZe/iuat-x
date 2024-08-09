@@ -13,7 +13,8 @@
 - Updates cumulative attendance display based on thresholds.
 
 ## Installation 💻 (for desktop users)
-
+Watch [installation guide video](https://drive.google.com/file/d/15CDGiGOyuM4BEsGVWSVl7093Kt1s-Jq1/view?usp=drivesdk) 
+**OR**
 Follow these steps to install the IUAT-X Chrome extension on your desktop browser:
 
 1. **Download the Extension**

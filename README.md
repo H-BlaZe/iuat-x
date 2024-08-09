@@ -16,7 +16,7 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 
 1. **Download the Extension**
 
-   Download the `.crx` file from the [releases page]([https://github.com/yourusername/IUAT-X/releases](https://github.com/H-BlaZe/iuat-x/tree/main/releases)) on GitHub.
+   Download the `.crx` file from the [releases page]([https://github.com/yourusername/IUAT-X/releases](https://github.com/H-BlaZe/iuat-x/tree/main/releases)) on GitHub..
 
 2. **Install the Extension in Chrome**
 

@@ -12,7 +12,7 @@
 - Shows recommendations to improve attendance.
 - Updates cumulative attendance display based on thresholds.
 
-## Installation (for desktop users)
+## Installation 💻 (for desktop users)
 
 Follow these steps to install the IUAT-X Chrome extension on your desktop browser:
 
@@ -32,7 +32,7 @@ Follow these steps to install the IUAT-X Chrome extension on your desktop browse
    - After installation, navigate to [https://sms.iul.ac.in/](https://sms.iul.ac.in/) and then navigate to to the attendance page.
    - The extension will automatically process the attendance data and update the table according to the rules defined.
 
-## Installation (for phone users)
+## Installation 📱 (for phone users)
 
 Follow these steps to install the IUAT-X Chrome extension on your mobile browser:
 

@@ -24,7 +24,8 @@ Follow these steps to install the IUAT-X Chrome extension on your desktop browse
 
    - Open Chrome and go to `chrome://extensions/`.
    - Enable **Developer mode** by toggling the switch in the top right corner.
-   - Drag and drop the `.zip` file into the Chrome Extensions page.
+   - Now, extract the zip file and choose the folder which has manifest.json file directly in it.
+   - Drag and drop the that file into the Chrome Extensions page.
    - Confirm the installation by clicking **Add Extension** when prompted.
 
 3. **Accessing the Extension**

@@ -1,2 +1,62 @@
-# IUAT-X
-A chrome extension that enhances your IU attendance report.
+# IUAT-X Chrome Extension
+
+## Description
+
+**IUAT-X** is a Chrome extension designed to help students monitor their attendance. It processes attendance data from the specified URL and highlights rows with low attendance. Additionally, it provides actionable insights to improve or maintain attendance rates.
+
+## Features
+
+- Highlights attendance rows with low attendance in red.
+- Shows recommendations to improve attendance.
+- Updates cumulative attendance display based on thresholds.
+- Displays a warning message for specific users who are banned from using the extension.
+
+## Installation
+
+Follow these steps to install the IUAT-X Chrome extension on your browser:
+
+1. **Download the Extension**
+
+   Download the `.crx` file from the [releases page](https://github.com/yourusername/IUAT-X/releases) on GitHub. You can also download the `.pem` file if you need to rebuild the extension.
+
+2. **Install the Extension in Chrome**
+
+   - Open Chrome and go to `chrome://extensions/`.
+   - Enable **Developer mode** by toggling the switch in the top right corner.
+   - Drag and drop the `.crx` file into the Chrome Extensions page.
+   - Confirm the installation by clicking **Add Extension** when prompted.
+
+3. **Accessing the Extension**
+
+   - After installation, navigate to [https://sms.iul.ac.in/Student/Attendance.aspx](https://sms.iul.ac.in/Student/Attendance.aspx).
+   - The extension will automatically process the attendance data and update the table according to the rules defined.
+
+## How It Works
+
+- **Attendance Processing**: The extension checks your attendance data and highlights rows where attendance is below 75%. It also calculates how many classes you need to attend or can skip to maintain or improve your attendance percentage.
+
+- **Cumulative Attendance Update**: The cumulative attendance percentage displayed on the page is updated with a trend indicator (📉 or 📈) based on the current attendance rate.
+
+- **Banned Users**: If the extension detects a banned user (e.g., "MEHVISH KHATOON" or "KULSOOM ZAIDI"), it removes the table and displays a banned message.
+
+## Troubleshooting
+
+- If the extension doesn't seem to work, ensure you're on the correct URL: [https://sms.iul.ac.in/Student/Attendance.aspx](https://sms.iul.ac.in/Student/Attendance.aspx).
+- Make sure you have enabled Developer Mode and installed the `.crx` file correctly.
+
+## Contributing
+
+Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are always welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or support, please open an issue on the [GitHub repository](https://github.com/yourusername/IUAT-X/issues).
+
+---
+
+Happy attending!
+

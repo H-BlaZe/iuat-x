@@ -37,9 +37,10 @@ Follow these steps to install the IUAT-X Chrome extension on your desktop browse
 Follow these steps to install the IUAT-X Chrome extension on your mobile browser:
 
 1a. **Prerequisite**
+
    Download Kiwi Browser from the [PlayStore](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_IN&pli=1) or AppStore (Safari Browser).
 
-1. **Download the Extension**
+1b. **Download the Extension**
 
    Download the `.crx` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub.
 

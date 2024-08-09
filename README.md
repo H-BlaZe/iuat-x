@@ -27,7 +27,7 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 
 3. **Accessing the Extension**
 
-   - After installation, navigate to [https://sms.iul.ac.in/](https://sms.iul.ac.in/) and then to the attendance menu.
+   - After installation, navigate to [https://sms.iul.ac.in/](https://sms.iul.ac.in/) and then navigate to to the attendance page.
    - The extension will automatically process the attendance data and update the table according to the rules defined.
 
 ## How It Works
@@ -47,7 +47,7 @@ Feel free to contribute to the project by submitting issues or pull requests. Yo
 
 ## Contact
 
-For any questions or support, please open an issue on the [GitHub repository](https://github.com/yourusername/IUAT-X/issues).
+For any questions or support, please open an issue on the [GitHub repository](https://github.com/H-BlaZe/IUAT-X/issues).
 
 ---
 

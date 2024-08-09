@@ -36,22 +36,22 @@ Follow these steps to install the IUAT-X Chrome extension on your desktop browse
 
 Follow these steps to install the IUAT-X Chrome extension on your mobile browser:
 
-1a. **Prerequisite**
+1. **Prerequisite**
 
    Download Kiwi Browser from the [PlayStore](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_IN&pli=1) or AppStore (Safari Browser).
 
-1b. **Download the Extension**
+2. **Download the Extension**
 
    Download the `.crx` file from the [release page](https://github.com/H-BlaZe/iuat-x/releases/) on GitHub.
 
-2. **Install the Extension in Chrome**
+3. **Install the Extension in Chrome**
 
    - Open the browser and navigate to the extensions menu.
    - Enable **Developer mode** by toggling the switch in the top right corner.
    - Choose +(from .zip/.crx) and choose the iuat-x(<version>).crx file you downloaded.
    - Confirm the installation by clicking **Add Extension** when prompted.
 
-3. **Accessing the Extension**
+4. **Accessing the Extension**
 
    - After installation, navigate to [https://sms.iul.ac.in/](https://sms.iul.ac.in/) and then navigate to to the attendance page.
    - The extension will automatically process the attendance data and update the table according to the rules defined.

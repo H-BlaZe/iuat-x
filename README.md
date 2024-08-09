@@ -1,4 +1,4 @@
-# IUAT-X Chrome Extension
+# IUAT-X Chrome Extension 🚀
 
 ## Description
 
@@ -9,7 +9,6 @@
 - Highlights attendance rows with low attendance in red.
 - Shows recommendations to improve attendance.
 - Updates cumulative attendance display based on thresholds.
-- Displays a warning message for specific users who are banned from using the extension.
 
 ## Installation
 
@@ -17,7 +16,7 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 
 1. **Download the Extension**
 
-   Download the `.crx` file from the [releases page](https://github.com/yourusername/IUAT-X/releases) on GitHub. You can also download the `.pem` file if you need to rebuild the extension.
+   Download the `.crx` file from the [releases page](https://github.com/yourusername/IUAT-X/releases) on GitHub.
 
 2. **Install the Extension in Chrome**
 
@@ -28,7 +27,7 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 
 3. **Accessing the Extension**
 
-   - After installation, navigate to [https://sms.iul.ac.in/Student/Attendance.aspx](https://sms.iul.ac.in/Student/Attendance.aspx).
+   - After installation, navigate to [https://sms.iul.ac.in/](https://sms.iul.ac.in/) and then to the attendance menu.
    - The extension will automatically process the attendance data and update the table according to the rules defined.
 
 ## How It Works
@@ -36,8 +35,6 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 - **Attendance Processing**: The extension checks your attendance data and highlights rows where attendance is below 75%. It also calculates how many classes you need to attend or can skip to maintain or improve your attendance percentage.
 
 - **Cumulative Attendance Update**: The cumulative attendance percentage displayed on the page is updated with a trend indicator (📉 or 📈) based on the current attendance rate.
-
-- **Banned Users**: If the extension detects a banned user (e.g., "MEHVISH KHATOON" or "KULSOOM ZAIDI"), it removes the table and displays a banned message.
 
 ## Troubleshooting
 
@@ -47,10 +44,6 @@ Follow these steps to install the IUAT-X Chrome extension on your browser:
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 

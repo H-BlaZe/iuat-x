@@ -69,7 +69,7 @@ Follow these steps to install the IUAT-X Chrome extension on your mobile browser
 ## Troubleshooting
 
 - If the extension doesn't seem to work, ensure you're on the correct URL: [https://sms.iul.ac.in/Student/Attendance.aspx](https://sms.iul.ac.in/Student/Attendance.aspx).
-- Make sure you have enabled Developer Mode and installed the `.crx` file correctly.
+- Make sure you have enabled Developer Mode and installed the extension correctly.
 
 ## Contributing
 
